@@ -1,0 +1,14 @@
+{
+  "weights": {
+    "Coursework": 0.4,
+    "Exam": 0.6
+  },
+  "pass_mark": 60,
+  "grade_boundaries": {
+    "A": 90,
+    "B": 80,
+    "C": 70,
+    "D": 60,
+    "F": 0
+  }
+}
